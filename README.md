@@ -2,6 +2,7 @@
 Trabajo práctico final del curso de Técnicas de Programación del Centro de Formación Profesional Nro 34. 2do Cuatrimestre 2017
 
 ##Reglas del juego
+
 Se trata de un juego individual y se desarrolla en un tablero de 5 × 5. El
 objetivo es lograr apagar todas las luces encendidas en el tablero. Cuando
 todas las luces han sido apagadas el jugador ha ganado.
